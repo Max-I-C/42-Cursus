@@ -1,0 +1,48 @@
+[submodule "Milestone0/libft"]
+	path = Milestone0/libft
+	url = git@github.com:MoustikBe/Libft.git
+[submodule "Milestone1/ft_printf"]
+	path = Milestone1/ft_printf
+	url = git@github.com:MoustikBe/ft_printf.git
+[submodule "Milestone1/get_next_line"]
+	path = Milestone1/get_next_line
+	url = git@github.com:MoustikBe/get_next_line.git
+[submodule "Milestone2/so_long"]
+	path = Milestone2/so_long
+	url = git@github.com:MoustikBe/so_long.git
+[submodule "Milestone2/push_swap"]
+	path = Milestone2/push_swap
+	url = git@github.com:MoustikBe/push_swap.git
+[submodule "Milestone2/pipex"]
+	path = Milestone2/pipex
+	url = git@github.com:MoustikBe/pipex.git
+[submodule "Milestone3/sheldon-e"]
+	path = Milestone3/sheldon-e
+	url = git@github.com:MoustikBe/sheldon-e.git
+[submodule "Milestone3/philosopher"]
+	path = Milestone3/philosopher
+	url = git@github.com:MoustikBe/philosopher.git
+[submodule "Milestone4/Cub3D"]
+	path = Milestone4/Cub3D
+	url = git@github.com:MoustikBe/Cube3D.git
+[submodule "Milestone4/CPP"]
+	path = Milestone4/CPP
+	url = git@github.com:MoustikBe/CPP.git
+[submodule "Milestone5/CPP"]
+	path = Milestone5/CPP
+	url = git@github.com:MoustikBe/CPP.git
+[submodule "Milestone5/Inception"]
+	path = Milestone5/Inception
+	url = git@github.com:MoustikBe/Inception.git
+[submodule "Milestone5/ft_irc"]
+	path = Milestone5/ft_irc
+	url = git@github.com:MoustikBe/ft_irc.git
+[submodule "Milestone6/ft_transcendence"]
+	path = Milestone6/ft_transcendence
+	url = git@github.com:MoustikBe/ft_transcendence.git
+[submodule "Milestone0/libft"]
+	path = Milestone0/libft
+	url = git@github.com:MoustikBe/Libft.git
+[submodule "Milestone4/Cube3D"]
+	path = Milestone4/Cube3D
+	url = git@github.com:MoustikBe/Cube3D.git
