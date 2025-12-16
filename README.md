@@ -39,4 +39,4 @@ Projects marked with the 📃 emoji indicate that they were selected under this 
 exam_rank_06: Recreating a minimal server.
 
 
-![This is an alt text.](/image/ "This is a sample image.")
+![This is an alt text.](/holy_graph.png "This is a sample image.")
