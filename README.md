@@ -36,7 +36,7 @@ Projects marked with the 📃 emoji indicate that they were selected under this 
 * exam_rank_05: C++ exam with three levels, covering various C++ concepts.
 ## Milestone 6
 * ft_transcendence: Creation of a full-stack web application.
-exam_rank_06: Recreating a minimal server.
+* exam_rank_06: Recreating a minimal server.
 
 
 ![This is an alt text.](/holy_graph.png "This is a sample image.")
