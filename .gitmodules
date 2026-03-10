@@ -43,6 +43,3 @@
 [submodule "Milestone0/libft"]
 	path = Milestone0/libft
 	url = git@github.com:MoustikBe/Libft.git
-[submodule "Milestone4/Cube3D"]
-	path = Milestone4/Cube3D
-	url = git@github.com:MoustikBe/Cube3D.git
