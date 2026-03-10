@@ -25,6 +25,9 @@
 [submodule "Milestone4/CPP"]
 	path = Milestone4/CPP
 	url = git@github.com:MoustikBe/CPP.git
+[submodule "Milestone4/Cub3D"]
+	path = Milestone4/Cub3D
+	url = git@github.com:Max-I-C/Cub3D.git
 [submodule "Milestone5/CPP"]
 	path = Milestone5/CPP
 	url = git@github.com:MoustikBe/CPP.git
