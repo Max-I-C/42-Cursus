@@ -22,9 +22,6 @@
 [submodule "Milestone3/philosopher"]
 	path = Milestone3/philosopher
 	url = git@github.com:MoustikBe/philosopher.git
-[submodule "Milestone4/Cub3D"]
-	path = Milestone4/Cub3D
-	url = git@github.com:MoustikBe/Cube3D.git
 [submodule "Milestone4/CPP"]
 	path = Milestone4/CPP
 	url = git@github.com:MoustikBe/CPP.git
